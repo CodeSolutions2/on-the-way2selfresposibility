@@ -7,4 +7,3 @@ A prompt engineering application that gives five topics about how to be responsi
 
 ## In progress
 - Improved interface
-- A fifth topic about how to be responsible
