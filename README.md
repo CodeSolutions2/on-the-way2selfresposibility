@@ -1,4 +1,4 @@
-# on-the-way2selfresposibility
+# on_the_way_to_selfresposibility
 
 The purpose of this interactive responsibility webapp book, using prompt engineering, is to give advice about how to act more responsible in frustrating situations, like searching for a job or acheiving success in a life-endeavor.
 - It explains different situations, and then gives suggestions for how to perceive and/or transform these situations into more logical and solveable situations.
