@@ -1,10 +1,10 @@
-# on_the_way_to_selfresposibility
+# on_the_way_to_selfresponsibility
 
 The purpose of this interactive responsibility webapp book, using prompt engineering, is to give advice about how to act more responsible in frustrating situations, like searching for a job or acheiving success in a life-endeavor.
 - It explains different situations, and then gives suggestions for how to perceive and/or transform these situations into more logical and solveable situations.
 - Self-responsibility guidance messages: in addition to the interactive responsibility webapp book using the sidebar links, click the button below to randomly show messages about self-responsibility.
 
-[Current working version] https://codesolutions2.github.io/on_the_way_to_selfresposibility/index.html
+[Current working version] https://codesolutions2.github.io/on_the_way_to_selfresponsibility/index.html
 
 
 ## In progress
