@@ -7,7 +7,7 @@ The purpose of this interactive responsibility webapp book, using prompt enginee
 [Current working version] https://codesolutions2.github.io/on_the_way_to_selfresponsibility/index.html
 
 ## Self-resposibility Momentary Guidance Message
-[self-responsibility messages] https://storage.googleapis.com/on-the-way2selfresponsibility/self_resposibility_guidance_messages.txt
+[Self-responsibility messages] https://storage.googleapis.com/on-the-way2selfresponsibility/self_resposibility_guidance_messages.txt
 
 ## In progress
 - Improved interface
